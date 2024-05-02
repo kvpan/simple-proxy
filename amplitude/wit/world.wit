@@ -1,0 +1,5 @@
+package edgee:amplitude;
+
+world event-handler {
+    export page-viewed: func(url: string);
+}

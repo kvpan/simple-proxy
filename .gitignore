@@ -1,4 +1,5 @@
 # Folders
+.cargo
 /target
 /debug/
 
